@@ -1,0 +1,14 @@
+{
+  "name": "iGate",
+  "version": "1.0.0",
+  "description": "iGate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "bloosd",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}

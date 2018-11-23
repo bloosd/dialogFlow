@@ -1,0 +1,6 @@
+{
+  "name": "iGate",
+  "description": "Webhook echo sample",
+  "repository": "https://github.com/bloosd/dialogFlow.git",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
